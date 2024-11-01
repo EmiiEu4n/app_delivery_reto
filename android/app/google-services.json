@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059366790740",
+    "project_id": "reto-delivery-dev",
+    "storage_bucket": "reto-delivery-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059366790740:android:ba7316c1d6d6e6a578efc1",
+        "android_client_info": {
+          "package_name": "app.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuZfUDOZF5cEti2OXUIsEvtyPmEYCZQxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
